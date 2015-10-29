@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Adobe CC Welcome Screen 해제하기
+title:      어술라 르 귄의 2014 미국 도서상 수상 소감
 date: 2015-01-30
 ---
 
