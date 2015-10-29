@@ -68,7 +68,12 @@
       margin-bottom: $spacing-xs;
     }
   }
-
+  hr {
+	width:100%;
+	margin: 2.5rem auto;
+	border: 0px;
+	border-bottom: 1px dotted #e0e1e6;
+  }
   blockquote {
     font-size: 100%;
     font-family: $font-family;
