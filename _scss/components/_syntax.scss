@@ -21,6 +21,8 @@ code {
   font-family: 'Courier', monospace;
   font-size: 100%;
   line-height: 1.5;
+  background-color: $smoke-color;
+  padding: 2px 5px;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
