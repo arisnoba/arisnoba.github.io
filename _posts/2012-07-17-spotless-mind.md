@@ -1,7 +1,12 @@
 ---
-published: false
+layout: post
+title: "Spotless Mind"
+date: 2015-10-29
 ---
 
+<img src="{{ site.baseurl }}/assets/img/sm.png">
+
+#티끌 없는 마음
 
 엄마의 마음이자, 단 하나의 가르침
 내가 뽑은 드라마 <황진이>의 명대사, 명장면
